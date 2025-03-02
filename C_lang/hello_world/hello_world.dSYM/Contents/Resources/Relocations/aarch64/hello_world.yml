@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/jonahgoldfine/Documents/Learning_Languages/C_lang/hello_world'
+relocations:     []
+...
