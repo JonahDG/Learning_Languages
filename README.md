@@ -1,2 +1,6 @@
-# Learning_C
-Teaching myself C
+# Learning_Languages
+## C
+<ol>
+  <li>Hello World</li>
+  
+</ol>
